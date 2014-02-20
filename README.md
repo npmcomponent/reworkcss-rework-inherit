@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [reworkcss/rework-inherit](http://github.com/reworkcss/rework-inherit). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/reworkcss-rework-inherit`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ## Inherit [![Build Status](https://travis-ci.org/reworkcss/rework-inherit.png)](https://travis-ci.org/reworkcss/rework-inherit)
 
 Inherit mixin for [rework](https://github.com/visionmedia/rework).

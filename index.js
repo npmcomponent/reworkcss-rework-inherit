@@ -1,4 +1,4 @@
-var debug = require('debug')('rework-inherit')
+var debug = require('visionmedia-debug')('rework-inherit')
 
 exports = module.exports = function (options) {
   return function inherit(style) {
